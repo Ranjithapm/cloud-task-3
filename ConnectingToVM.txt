@@ -1,0 +1,15 @@
+# task 3
+# Connecting to virtual machine.
+
+1. Go to azure portal and login with your account.
+2. Navigate to the virtual machine that you have already created in the azure portal.
+3. In the overview field, click on connect option which is at the top.
+4. The connection page will be appeared with your IP address, username, port, and etc..keep the port as 3389.
+5. Under most common category a box will be appeared ..In that give select option.
+6. Once you click the select option, the Navigate RDP box will be opened.In that select the checkbox to Configure prerequisites for Native RDP.
+7. click configure and then download the RDP file.
+8. Once downloaded, open the file and then it will take you to the new window.
+9. A pop-up message will be opened so give your password which you have given while creating a VM(virtual machine).
+10. It takes some time to connect via RDP.
+11. Once a new window is opened, You have successfully connected the Virtual machine via RDP.
+12. Once the process is over, stop the virtual machine which you have created in the portal.
